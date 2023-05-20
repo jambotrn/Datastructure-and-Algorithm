@@ -1,7 +1,3 @@
-# key = 'hello'
-
-# for i in key:
-#     print(ord(i))
 
 thisdict =	{
   "brand": "Ford",
